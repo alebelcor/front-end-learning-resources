@@ -5,14 +5,14 @@ Setting the foundations
 -----------------------
 
 ### Introduction
-<a href="http://code.google.com/edu/submissions/html-css-javascript/#introduction">HTML, CSS, and JavaScript from the Ground Up</a>
+[HTML, CSS, and JavaScript from the Ground Up](http://code.google.com/edu/submissions/html-css-javascript/#introduction)
 
 ### HTML
 `@TODO: add more`
 
 ### CSS
-<a href="http://paulirish.com/2009/browser-specific-css-hacks/">Browser CSS Hacks</a>
-<a href="http://css-tricks.com/css-image-replacement/">Nine Techniques for CSS Image Replacement</a>
+[Browser CSS Hacks](http://paulirish.com/2009/browser-specific-css-hacks/)
+[Nine Techniques for CSS Image Replacement](http://css-tricks.com/css-image-replacement/)
 
 **Selectors, cascade and specificity**
 <a href="http://alebelcor.blogspot.mx/2011/09/css-selectors.html">CSS Selectors</a>
