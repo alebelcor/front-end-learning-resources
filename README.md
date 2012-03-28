@@ -11,19 +11,19 @@ Setting the foundations
 `@TODO: add more`
 
 ### CSS
-[Browser CSS Hacks](http://paulirish.com/2009/browser-specific-css-hacks/)
-[Nine Techniques for CSS Image Replacement](http://css-tricks.com/css-image-replacement/)
+* [Browser CSS Hacks](http://paulirish.com/2009/browser-specific-css-hacks/)
+* [Nine Techniques for CSS Image Replacement](http://css-tricks.com/css-image-replacement/)
 
 **Selectors, cascade and specificity**
-<a href="http://alebelcor.blogspot.mx/2011/09/css-selectors.html">CSS Selectors</a>
-<a href="http://nicolasgallagher.com/css-cascade-specificity-inheritance/">CSS: the cascade, specificity, and inheritance</a>
+* [CSS Selectors](http://alebelcor.blogspot.mx/2011/09/css-selectors.html)
+* [CSS: the cascade, specificity, and inheritance](http://nicolasgallagher.com/css-cascade-specificity-inheritance/)
 
 **Cross Browser inline-block**
-<a href="http://foohack.com/2007/11/cross-browser-support-for-inline-block-styling/">Cross Browser Support for inline-block Styling</a>
-<a href="http://css-tricks.com/snippets/css/cross-browser-inline-block/">Cross Browser Inline-Block</a>
+* [Cross Browser Support for inline-block Styling](http://foohack.com/2007/11/cross-browser-support-for-inline-block-styling/)
+* [Cross Browser Inline-Block](http://css-tricks.com/snippets/css/cross-browser-inline-block/)
 
-<a href="http://www.youtube.com/watch?v=j6sAm7CLoCQ">The Top 5 Mistakes of Massive CSS</a>
-<a href="http://www.stubbornella.org/content/2011/04/28/our-best-practices-are-killing-us/">Our (CSS) Best Practices Are Killing US</a>
+* [http://www.youtube.com/watch?v=j6sAm7CLoCQ](The Top 5 Mistakes of Massive CSS)
+* [http://www.stubbornella.org/content/2011/04/28/our-best-practices-are-killing-us/](Our (CSS) Best Practices Are Killing US)
 
 `@TODO: add more`
 
