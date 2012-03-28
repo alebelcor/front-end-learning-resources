@@ -53,7 +53,6 @@ Setting the foundations
 
 `@TODO: add more`
 
--------------
 
 Diving deeper
 -------------
@@ -65,7 +64,6 @@ Diving deeper
 
 ### jQuery
 
-------------------------
 
 To infinity, and beyond!
 ------------------------
@@ -81,7 +79,6 @@ To infinity, and beyond!
 
 ### JavaScript Architecture
 
----------------------------
 
 ### Author
 
