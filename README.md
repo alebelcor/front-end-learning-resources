@@ -14,16 +14,16 @@ Setting the foundations
 * [Browser CSS Hacks](http://paulirish.com/2009/browser-specific-css-hacks/)
 * [Nine Techniques for CSS Image Replacement](http://css-tricks.com/css-image-replacement/)
 
-**Selectors, cascade and specificity**
+#### Selectors, cascade and specificity
 * [CSS Selectors](http://alebelcor.blogspot.mx/2011/09/css-selectors.html)
 * [CSS: the cascade, specificity, and inheritance](http://nicolasgallagher.com/css-cascade-specificity-inheritance/)
 
-**Cross Browser inline-block**
+#### Cross Browser inline-block
 * [Cross Browser Support for inline-block Styling](http://foohack.com/2007/11/cross-browser-support-for-inline-block-styling/)
 * [Cross Browser Inline-Block](http://css-tricks.com/snippets/css/cross-browser-inline-block/)
 
-* [http://www.youtube.com/watch?v=j6sAm7CLoCQ](The Top 5 Mistakes of Massive CSS)
-* [http://www.stubbornella.org/content/2011/04/28/our-best-practices-are-killing-us/](Our (CSS) Best Practices Are Killing US)
+* [The Top 5 Mistakes of Massive CSS](http://www.youtube.com/watch?v=j6sAm7CLoCQ)
+* [Our (CSS) Best Practices Are Killing US](http://www.stubbornella.org/content/2011/04/28/our-best-practices-are-killing-us/)
 
 `@TODO: add more`
 
