@@ -28,28 +28,28 @@ Setting the foundations
 `@TODO: add more`
 
 ### JavaScript
-<a href="https://github.com/rwldrn/idiomatic.js">Principles of Writing Consistent, Idiomatic JavaScript</a>
+* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js)
 
-<a href="http://www.youtube.com/watch?v=v2ifWcnQs6M">The JavaScript Programming Language</a>
+* [The JavaScript Programming Language](http://www.youtube.com/watch?v=v2ifWcnQs6M)
 
-<a href="http://www.youtube.com/watch?v=JxAXlJEmNMg">Crockford on JavaScript - Volume 1: The Early Years</a>
-<a href="http://www.youtube.com/watch?v=RO1Wnu-xKoY">Crockford on JavaScript - Chapter 2: And Then There Was JavaScript</a>
-<a href="http://www.youtube.com/watch?v=ya4UHuXNygM">Crockford on JavaScript - Act III: Function the Ultimate</a>
-<a href="http://www.youtube.com/watch?v=Fv9qT9joc0M">Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax</a>
-<a href="http://www.youtube.com/watch?v=47Ceot8yqeI">Crockford on JavaScript - Part 5: The End of All Things</a>
-<a href="http://www.youtube.com/watch?v=QgwSUtYSUqA">Crockford on JavaScript - Scene 6: Loopage</a>
-<a href="http://www.youtube.com/watch?v=UTEqr0IlFKY">Crockford on JavaScript - Level 7: ECMAScript 5: The New Parts</a>
-<a href="http://www.youtube.com/watch?v=taaEzHI9xyY">Crockford on JavaScript - Section 8: Programming Style & Your Brain</a>
+* [Crockford on JavaScript - Volume 1: The Early Years](http://www.youtube.com/watch?v=JxAXlJEmNMg)
+* [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](http://www.youtube.com/watch?v=RO1Wnu-xKoY)
+* [Crockford on JavaScript - Act III: Function the Ultimate](http://www.youtube.com/watch?v=ya4UHuXNygM)
+* [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax](http://www.youtube.com/watch?v=Fv9qT9joc0M)
+* [Crockford on JavaScript - Part 5: The End of All Things](http://www.youtube.com/watch?v=47Ceot8yqeI)
+* [Crockford on JavaScript - Scene 6: Loopage](http://www.youtube.com/watch?v=QgwSUtYSUqA)
+* [Crockford on JavaScript - Level 7: ECMAScript 5: The New Parts](http://www.youtube.com/watch?v=UTEqr0IlFKY)
+* [Crockford on JavaScript - Section 8: Programming Style & Your Brain](http://www.youtube.com/watch?v=taaEzHI9xyY)
 
-<a href="http://www.youtube.com/watch?v=pebHk8S5c6o">Maintainable JavaScript</a>
+* [Maintainable JavaScript](http://www.youtube.com/watch?v=pebHk8S5c6o)
 
-<a href="http://www.youtube.com/watch?v=hQVTIJBZook">JavaScript: The Good Parts</a>
-<a href="http://www.youtube.com/watch?v=DwYPG6vreJg">Advanced JavaScript</a>
+* [JavaScript: The Good Parts](http://www.youtube.com/watch?v=hQVTIJBZook)
+* [Advanced JavaScript](http://www.youtube.com/watch?v=DwYPG6vreJg)
 
 `@TODO: add more`
 
 ### DOM
-<a href="http://www.youtube.com/watch?v=Y2Y0U-2qJMs">An Inconvenient API - The Theory of the DOM</a>
+* [An Inconvenient API - The Theory of the DOM](http://www.youtube.com/watch?v=Y2Y0U-2qJMs)
 
 `@TODO: add more`
 
