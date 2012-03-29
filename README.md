@@ -70,6 +70,16 @@ Diving deeper
 * [Initializr](http://www.initializr.com/)
 
 ### CSS3
+* [CSS3 Please!](http://css3please.com/)
+* [CSS3 PIE](http://css3pie.com/)
+* [CSS3 . Info](http://www.css3.info/)
+* [CSS3 Generator](http://www.css3generator.com/)
+* [cubic-bezier](http://cubic-bezier.com/)
+* [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)
+* [LESS CSS3 Mixins](https://github.com/MatthewWagerfield/LESS-CSS3-Mixins)
+
+* [10 things you might not know about CSS3](http://vimeo.com/31719130)
+`@TODO: add more`
 
 ### jQuery
 
