@@ -56,8 +56,18 @@ Setting the foundations
 Diving deeper
 -------------
 ### Ajax
+`@TODO: add more`
 
 ### HTML5
+* [HTML5 Doctor](http://html5doctor.com/)
+* [HTML5 Rocks](http://www.html5rocks.com/)
+
+* [Learn About HTML5 and the Future of the Web](http://www.youtube.com/watch?v=EdDc7sWjCL4)
+* [HTML5: Right Here, Right Now](http://www.youtube.com/watch?v=c9vaV7ny_Zs)
+* [The Fundamentals, Primitives, and History of HTML5](http://www.youtube.com/watch?v=WxmcDoAxdoY)
+
+* [HTML5 Boilerplate](http://html5boilerplate.com/)
+* [Initializr](http://www.initializr.com/)
 
 ### CSS3
 
