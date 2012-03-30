@@ -107,6 +107,21 @@ To infinity, and beyond!
 
 ### Web Performance
 
+* [Best Practices for Speeding Up Your Web Site](http://developer.yahoo.com/performance/rules.html)
+* [Web Performance Best Practices](https://developers.google.com/speed/docs/best-practices/rules_intro)
+
+* [High Performance Web Sites - 14 Rules For Faster Pages](http://www.youtube.com/watch?v=arz3jhMfUx0)
+* [Even Faster Websites](http://www.youtube.com/watch?v=aJGC0JSlpPE)
+
+* [HTML5, CSS3, and DOM Performance](http://www.youtube.com/watch?v=q_O9_C2ZjoA)
+* [Steve Souders on High Performance HTML5](http://www.youtube.com/watch?v=Hs1yU6CeiHc)
+* [High Performance HTML5](http://www.infoq.com/presentations/High-Performance-HTML5)
+
+* [Speed Up Your JavaScript](http://www.youtube.com/watch?v=mHtdZgou0qU)
+* [High Performance JavaScript](http://www.youtube.com/watch?v=_fUGWFGUrUw)
+
+`@TODO: add more`
+
 ### WAI-ARIA
 
 ### CSS Tools
