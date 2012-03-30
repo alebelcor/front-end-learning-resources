@@ -23,34 +23,34 @@ Setting the foundations
 * [CSS: the cascade, specificity, and inheritance](http://nicolasgallagher.com/css-cascade-specificity-inheritance/)
 * [Cross Browser Inline-Block](http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/)
 * [CSS Compatibility and Internet Explorer](http://msdn.microsoft.com/en-us/library/cc351024)
-* [The Top 5 Mistakes of Massive CSS](http://www.youtube.com/watch?v=j6sAm7CLoCQ)
-* [Our (CSS) Best Practices Are Killing US](http://www.stubbornella.org/content/2011/04/28/our-best-practices-are-killing-us/)
+* [The Top 5 Mistakes of Massive CSS (video)](http://www.youtube.com/watch?v=j6sAm7CLoCQ)
+* [Our (CSS) Best Practices Are Killing US (video)](http://www.stubbornella.org/content/2011/04/28/our-best-practices-are-killing-us/)
 
 `@TODO: add more`
 
 ### JavaScript
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js)
 
-* [The JavaScript Programming Language](http://www.youtube.com/watch?v=v2ifWcnQs6M)
+* [The JavaScript Programming Language (video)](http://www.youtube.com/watch?v=v2ifWcnQs6M)
 
-* [Crockford on JavaScript - Volume 1: The Early Years](http://www.youtube.com/watch?v=JxAXlJEmNMg)
-* [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](http://www.youtube.com/watch?v=RO1Wnu-xKoY)
-* [Crockford on JavaScript - Act III: Function the Ultimate](http://www.youtube.com/watch?v=ya4UHuXNygM)
-* [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax](http://www.youtube.com/watch?v=Fv9qT9joc0M)
-* [Crockford on JavaScript - Part 5: The End of All Things](http://www.youtube.com/watch?v=47Ceot8yqeI)
-* [Crockford on JavaScript - Scene 6: Loopage](http://www.youtube.com/watch?v=QgwSUtYSUqA)
-* [Crockford on JavaScript - Level 7: ECMAScript 5: The New Parts](http://www.youtube.com/watch?v=UTEqr0IlFKY)
-* [Crockford on JavaScript - Section 8: Programming Style & Your Brain](http://www.youtube.com/watch?v=taaEzHI9xyY)
+* [Crockford on JavaScript - Volume 1: The Early Years (video)](http://www.youtube.com/watch?v=JxAXlJEmNMg)
+* [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript (video)](http://www.youtube.com/watch?v=RO1Wnu-xKoY)
+* [Crockford on JavaScript - Act III: Function the Ultimate (video)](http://www.youtube.com/watch?v=ya4UHuXNygM)
+* [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax (video)](http://www.youtube.com/watch?v=Fv9qT9joc0M)
+* [Crockford on JavaScript - Part 5: The End of All Things (video)](http://www.youtube.com/watch?v=47Ceot8yqeI)
+* [Crockford on JavaScript - Scene 6: Loopage (video)](http://www.youtube.com/watch?v=QgwSUtYSUqA)
+* [Crockford on JavaScript - Level 7: ECMAScript 5: The New Parts (video)](http://www.youtube.com/watch?v=UTEqr0IlFKY)
+* [Crockford on JavaScript - Section 8: Programming Style & Your Brain (video)](http://www.youtube.com/watch?v=taaEzHI9xyY)
 
-* [Maintainable JavaScript](http://www.youtube.com/watch?v=pebHk8S5c6o)
+* [Maintainable JavaScript (video)](http://www.youtube.com/watch?v=pebHk8S5c6o)
 
-* [JavaScript: The Good Parts](http://www.youtube.com/watch?v=hQVTIJBZook)
-* [Advanced JavaScript](http://www.youtube.com/watch?v=DwYPG6vreJg)
+* [JavaScript: The Good Parts (video)](http://www.youtube.com/watch?v=hQVTIJBZook)
+* [Advanced JavaScript (video)](http://www.youtube.com/watch?v=DwYPG6vreJg)
 
 `@TODO: add more`
 
 ### DOM
-* [An Inconvenient API - The Theory of the DOM](http://www.youtube.com/watch?v=Y2Y0U-2qJMs)
+* [An Inconvenient API - The Theory of the DOM (video)](http://www.youtube.com/watch?v=Y2Y0U-2qJMs)
 
 `@TODO: add more`
 
@@ -69,12 +69,12 @@ Diving deeper
 * [HTML5 Doctor](http://html5doctor.com/)
 * [HTML5 Rocks](http://www.html5rocks.com/)
 
-* [Learn About HTML5 and the Future of the Web](http://www.youtube.com/watch?v=EdDc7sWjCL4)
-* [HTML5: Right Here, Right Now](http://www.youtube.com/watch?v=c9vaV7ny_Zs)
-* [The Fundamentals, Primitives, and History of HTML5](http://www.youtube.com/watch?v=WxmcDoAxdoY)
+* [Learn About HTML5 and the Future of the Web (video)](http://www.youtube.com/watch?v=EdDc7sWjCL4)
+* [HTML5: Right Here, Right Now (video)](http://www.youtube.com/watch?v=c9vaV7ny_Zs)
+* [The Fundamentals, Primitives, and History of HTML5 (video)](http://www.youtube.com/watch?v=WxmcDoAxdoY)
 
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
-* [HTML5 Boilerplate Walkthrough](http://www.youtube.com/watch?v=oDlsOyPKUTM)
+* [HTML5 Boilerplate Walkthrough (video)](http://www.youtube.com/watch?v=oDlsOyPKUTM)
 * [Initializr](http://www.initializr.com/)
 * [HTML5 Please](http://html5please.com/)
 * [HTML5 Please Supported Browsers API](http://api.html5please.com/)
@@ -91,14 +91,14 @@ Diving deeper
 * [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)
 * [LESS CSS3 Mixins](https://github.com/MatthewWagerfield/LESS-CSS3-Mixins)
 
-* [10 things you might not know about CSS3](http://vimeo.com/31719130)
+* [10 things you might not know about CSS3 (video)](http://vimeo.com/31719130)
 
 `@TODO: add more`
 
 ### jQuery
 * [jQuery Boilerplate](http://jqueryboilerplate.com/)
-* [10 Things I Learned from the jQuery Source](http://www.youtube.com/watch?v=i_qE1iAmjFg)
-* [11 More Things I Learned from the jQuery Source](http://www.youtube.com/watch?v=ARnp9Y8xgR4)
+* [10 Things I Learned from the jQuery Source (video)](http://www.youtube.com/watch?v=i_qE1iAmjFg)
+* [11 More Things I Learned from the jQuery Source (video)](http://www.youtube.com/watch?v=ARnp9Y8xgR4)
 
 `@TODO: add more`
 
@@ -110,15 +110,15 @@ To infinity, and beyond!
 * [Best Practices for Speeding Up Your Web Site](http://developer.yahoo.com/performance/rules.html)
 * [Web Performance Best Practices](https://developers.google.com/speed/docs/best-practices/rules_intro)
 
-* [High Performance Web Sites - 14 Rules For Faster Pages](http://www.youtube.com/watch?v=arz3jhMfUx0)
-* [Even Faster Websites](http://www.youtube.com/watch?v=aJGC0JSlpPE)
+* [High Performance Web Sites - 14 Rules For Faster Pages (video)](http://www.youtube.com/watch?v=arz3jhMfUx0)
+* [Even Faster Websites (video)](http://www.youtube.com/watch?v=aJGC0JSlpPE)
 
-* [HTML5, CSS3, and DOM Performance](http://www.youtube.com/watch?v=q_O9_C2ZjoA)
-* [Steve Souders on High Performance HTML5](http://www.youtube.com/watch?v=Hs1yU6CeiHc)
-* [High Performance HTML5](http://www.infoq.com/presentations/High-Performance-HTML5)
+* [HTML5, CSS3, and DOM Performance (video)](http://www.youtube.com/watch?v=q_O9_C2ZjoA)
+* [Steve Souders on High Performance HTML5 (video)](http://www.youtube.com/watch?v=Hs1yU6CeiHc)
+* [High Performance HTML5 (video)](http://www.infoq.com/presentations/High-Performance-HTML5)
 
-* [Speed Up Your JavaScript](http://www.youtube.com/watch?v=mHtdZgou0qU)
-* [High Performance JavaScript](http://www.youtube.com/watch?v=_fUGWFGUrUw)
+* [Speed Up Your JavaScript (video)](http://www.youtube.com/watch?v=mHtdZgou0qU)
+* [High Performance JavaScript (video)](http://www.youtube.com/watch?v=_fUGWFGUrUw)
 
 * [JPEGmini](http://www.jpegmini.com/)
 * [Smush.it](http://www.smushit.com/)
