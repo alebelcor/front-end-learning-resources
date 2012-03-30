@@ -58,6 +58,10 @@ Setting the foundations
 Diving deeper
 -------------
 ### Ajax
+* [Getting Started - MDC](https://developer.mozilla.org/en/AJAX/Getting_Started)
+* [Alternate Ajax Techniques](http://www.webreference.com/programming/ajax_tech/index.html)
+* [Ajax - MDC](https://developer.mozilla.org/en/AJAX)
+
 `@TODO: add more`
 
 ### HTML5
@@ -110,7 +114,6 @@ To infinity, and beyond!
 ### JavaScript Patterns
 
 ### JavaScript Architecture
-
 
 ### Author
 
