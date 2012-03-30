@@ -120,6 +120,13 @@ To infinity, and beyond!
 * [Speed Up Your JavaScript](http://www.youtube.com/watch?v=mHtdZgou0qU)
 * [High Performance JavaScript](http://www.youtube.com/watch?v=_fUGWFGUrUw)
 
+* [JPEGmini](http://www.jpegmini.com/)
+* [Smush.it](http://www.smushit.com/)
+* [Stitches - An HTML5 sprite sheet generator](http://draeton.github.com/stitches/)
+* [Sprite Cow - Generate CSS for sprite sheets](http://www.spritecow.com)
+* [YSlow](http://developer.yahoo.com/yslow/)
+* [Page Speed](http://code.google.com/speed/page-speed/)
+
 `@TODO: add more`
 
 ### WAI-ARIA
