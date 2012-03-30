@@ -66,6 +66,7 @@ Diving deeper
 * [Initializr](http://www.initializr.com/)
 * [HTML5 Please](http://html5please.com/)
 * [HTML5 Please Supported Browsers API](http://api.html5please.com/)
+* [HTML5Pattern](http://html5pattern.com/)
 
 ### CSS3
 * [CSS3 Please!](http://css3please.com/)
