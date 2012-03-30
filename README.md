@@ -63,6 +63,7 @@ Diving deeper
 * [The Fundamentals, Primitives, and History of HTML5](http://www.youtube.com/watch?v=WxmcDoAxdoY)
 
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
+* [HTML5 Boilerplate Walkthrough](http://www.youtube.com/watch?v=oDlsOyPKUTM)
 * [Initializr](http://www.initializr.com/)
 * [HTML5 Please](http://html5please.com/)
 * [HTML5 Please Supported Browsers API](http://api.html5please.com/)
