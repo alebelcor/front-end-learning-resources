@@ -5,9 +5,15 @@ Setting the foundations
 -----------------------
 
 ### Introduction
-[HTML, CSS, and JavaScript from the Ground Up](http://code.google.com/edu/submissions/html-css-javascript/#introduction)
+* [HTML, CSS, and JavaScript from the Ground Up](http://code.google.com/edu/submissions/html-css-javascript/#introduction)
+* [Introduction to The Web Standards Curriculum](http://dev.opera.com/articles/view/1-introduction-to-the-web-standards-cur/#toc)
+
+`@TODO: add more`
 
 ### HTML
+* [HTML/Training](http://www.w3.org/community/webed/wiki/HTML/Training)
+* [HTML/Elements](http://www.w3.org/community/webed/wiki/HTML/Elements)
+
 `@TODO: add more`
 
 ### CSS
@@ -69,6 +75,8 @@ Diving deeper
 * [HTML5 Please Supported Browsers API](http://api.html5please.com/)
 * [HTML5Pattern](http://html5pattern.com/)
 
+`@TODO: add more`
+
 ### CSS3
 * [CSS3 Please!](http://css3please.com/)
 * [CSS3 PIE](http://css3pie.com/)
@@ -79,12 +87,15 @@ Diving deeper
 * [LESS CSS3 Mixins](https://github.com/MatthewWagerfield/LESS-CSS3-Mixins)
 
 * [10 things you might not know about CSS3](http://vimeo.com/31719130)
+
 `@TODO: add more`
 
 ### jQuery
 * [jQuery Boilerplate](http://jqueryboilerplate.com/)
 * [10 Things I Learned from the jQuery Source](http://www.youtube.com/watch?v=i_qE1iAmjFg)
 * [11 More Things I Learned from the jQuery Source](http://www.youtube.com/watch?v=ARnp9Y8xgR4)
+
+`@TODO: add more`
 
 To infinity, and beyond!
 ------------------------
