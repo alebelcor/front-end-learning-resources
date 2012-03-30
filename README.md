@@ -57,6 +57,7 @@ Setting the foundations
 
 Diving deeper
 -------------
+
 ### Ajax
 * [Getting Started - MDC](https://developer.mozilla.org/en/AJAX/Getting_Started)
 * [Alternate Ajax Techniques](http://www.webreference.com/programming/ajax_tech/index.html)
@@ -103,6 +104,7 @@ Diving deeper
 
 To infinity, and beyond!
 ------------------------
+
 ### Web Performance
 
 ### WAI-ARIA
