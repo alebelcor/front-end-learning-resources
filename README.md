@@ -1,5 +1,5 @@
-Front End Developer Resources
-=============================
+Front End Developer Learning Resources
+======================================
 
 Setting the foundations
 -----------------------
@@ -64,6 +64,8 @@ Diving deeper
 
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [Initializr](http://www.initializr.com/)
+* [HTML5 Please](http://html5please.com/)
+* [HTML5 Please Supported Browsers API](http://api.html5please.com/)
 
 ### CSS3
 * [CSS3 Please!](http://css3please.com/)
