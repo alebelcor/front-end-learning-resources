@@ -82,7 +82,9 @@ Diving deeper
 `@TODO: add more`
 
 ### jQuery
-
+* [jQuery Boilerplate](http://jqueryboilerplate.com/)
+* [10 Things I Learned from the jQuery Source](http://www.youtube.com/watch?v=i_qE1iAmjFg)
+* [11 More Things I Learned from the jQuery Source](http://www.youtube.com/watch?v=ARnp9Y8xgR4)
 
 To infinity, and beyond!
 ------------------------
