@@ -72,7 +72,7 @@ Diving deeper
 
 * [Learn About HTML5 and the Future of the Web (video)](http://www.youtube.com/watch?v=EdDc7sWjCL4)
 * [HTML5: Right Here, Right Now (video)](http://www.youtube.com/watch?v=c9vaV7ny_Zs)
-* [The Fundamentals, Primitives, and History of HTML5 (video)](http://www.youtube.com/watch?v=WxmcDoAxdoY)
+* [The Fundamentals, Primitives, and History of HTML5 (video)](http://paulirish.com/2011/primitives-html5-video/)
 
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [HTML5 Boilerplate Walkthrough (video)](http://www.youtube.com/watch?v=oDlsOyPKUTM)
@@ -98,9 +98,17 @@ Diving deeper
 `@TODO: add more`
 
 ### jQuery
+
 * [jQuery Boilerplate](http://jqueryboilerplate.com/)
-* [10 Things I Learned from the jQuery Source (video)](http://www.youtube.com/watch?v=i_qE1iAmjFg)
-* [11 More Things I Learned from the jQuery Source (video)](http://www.youtube.com/watch?v=ARnp9Y8xgR4)
+* [Essential jQuery Plugin Patterns](http://coding.smashingmagazine.com/2011/10/11/essential-jquery-plugin-patterns/)
+* [31 jQuery Snippets That Will Help Make You A JavaScript Pro](http://addyosmani.com/blog/31-jquery-snippets/)
+* [jQuery Proven Performance Tips and Tricks](http://addyosmani.com/jqprovenperformance/)
+
+* [Fundamentals for Great jQuery Development (video)](http://marakana.com/s/video_fundamentals_for_great_jquery_development,231/index.html)
+* [Boston 2010 jQuery Conference (videos)](http://events.jquery.org/2010/boston/video/)
+* [10 Things I Learned from the jQuery Source (video)](http://paulirish.com/2010/10-things-i-learned-from-the-jquery-source/)
+* [11 More Things I Learned from the jQuery Source (video)](http://paulirish.com/2011/11-more-things-i-learned-from-the-jquery-source/)
+* [jQuery Performance Tips and Tricks (video)](http://addyosmani.com/blog/jquery-performance-tips-2011/)
 
 `@TODO: add more`
 
@@ -115,7 +123,7 @@ To infinity, and beyond!
 * [High Performance Web Sites - 14 Rules For Faster Pages (video)](http://www.youtube.com/watch?v=arz3jhMfUx0)
 * [Even Faster Websites (video)](http://www.youtube.com/watch?v=aJGC0JSlpPE)
 
-* [HTML5, CSS3, and DOM Performance (video)](http://www.youtube.com/watch?v=q_O9_C2ZjoA)
+* [HTML5, CSS3, and DOM Performance (video)](http://paulirish.com/2011/dom-html5-css3-performance/)
 * [Steve Souders on High Performance HTML5 (video)](http://www.youtube.com/watch?v=Hs1yU6CeiHc)
 * [High Performance HTML5 (video)](http://www.infoq.com/presentations/High-Performance-HTML5)
 
