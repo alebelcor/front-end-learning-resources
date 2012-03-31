@@ -45,6 +45,7 @@ Setting the foundations
 * [Maintainable JavaScript (video)](http://www.youtube.com/watch?v=pebHk8S5c6o)
 
 * [JavaScript: The Good Parts (video)](http://www.youtube.com/watch?v=hQVTIJBZook)
+* [Good C# Habits Can Encourage Bad JavaScript Habits](http://www.elijahmanor.com/2011/02/video-good-c-habits-can-encourage-bad.html)
 * [Advanced JavaScript (video)](http://www.youtube.com/watch?v=DwYPG6vreJg)
 
 `@TODO: add more`
@@ -128,16 +129,6 @@ To infinity, and beyond!
 * [Page Speed](http://code.google.com/speed/page-speed/)
 
 `@TODO: add more`
-
-### WAI-ARIA
-
-### CSS Tools
-
-### CSS Architecture
-
-### JavaScript Patterns
-
-### JavaScript Architecture
 
 ### Author
 
