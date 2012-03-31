@@ -80,6 +80,7 @@ Diving deeper
 * [HTML5 Please](http://html5please.com/)
 * [HTML5 Please Supported Browsers API](http://api.html5please.com/)
 * [HTML5Pattern](http://html5pattern.com/)
+* [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 
 `@TODO: add more`
 
