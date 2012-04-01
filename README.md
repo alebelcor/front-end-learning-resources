@@ -8,13 +8,9 @@ Setting the foundations
 * [HTML, CSS, and JavaScript from the Ground Up](http://code.google.com/edu/submissions/html-css-javascript/#introduction)
 * [Introduction to The Web Standards Curriculum](http://dev.opera.com/articles/view/1-introduction-to-the-web-standards-cur/#toc)
 
-`@TODO: add more`
-
 ### HTML
 * [HTML/Training](http://www.w3.org/community/webed/wiki/HTML/Training)
 * [HTML/Elements](http://www.w3.org/community/webed/wiki/HTML/Elements)
-
-`@TODO: add more`
 
 ### CSS
 * [Browser CSS Hacks](http://paulirish.com/2009/browser-specific-css-hacks/)
@@ -25,8 +21,6 @@ Setting the foundations
 * [CSS Compatibility and Internet Explorer](http://msdn.microsoft.com/en-us/library/cc351024)
 * [The Top 5 Mistakes of Massive CSS (video)](http://www.youtube.com/watch?v=j6sAm7CLoCQ)
 * [Our (CSS) Best Practices Are Killing US (video)](http://www.stubbornella.org/content/2011/04/28/our-best-practices-are-killing-us/)
-
-`@TODO: add more`
 
 ### JavaScript
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js)
@@ -48,12 +42,8 @@ Setting the foundations
 * [Good C# Habits Can Encourage Bad JavaScript Habits (video)](http://www.elijahmanor.com/2011/02/video-good-c-habits-can-encourage-bad.html)
 * [Advanced JavaScript (video)](http://www.youtube.com/watch?v=DwYPG6vreJg)
 
-`@TODO: add more`
-
 ### DOM
 * [An Inconvenient API - The Theory of the DOM (video)](http://www.youtube.com/watch?v=Y2Y0U-2qJMs)
-
-`@TODO: add more`
 
 
 Diving deeper
@@ -63,8 +53,6 @@ Diving deeper
 * [Getting Started - MDC](https://developer.mozilla.org/en/AJAX/Getting_Started)
 * [Alternate Ajax Techniques](http://www.webreference.com/programming/ajax_tech/index.html)
 * [Ajax - MDC](https://developer.mozilla.org/en/AJAX)
-
-`@TODO: add more`
 
 ### HTML5
 * [HTML5 Doctor](http://html5doctor.com/)
@@ -82,8 +70,6 @@ Diving deeper
 * [HTML5Pattern](http://html5pattern.com/)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 
-`@TODO: add more`
-
 ### CSS3
 * [CSS3 Please!](http://css3please.com/)
 * [CSS3 PIE](http://css3pie.com/)
@@ -94,8 +80,6 @@ Diving deeper
 * [LESS CSS3 Mixins](https://github.com/MatthewWagerfield/LESS-CSS3-Mixins)
 
 * [10 things you might not know about CSS3 (video)](http://vimeo.com/31719130)
-
-`@TODO: add more`
 
 ### jQuery
 
@@ -110,7 +94,6 @@ Diving deeper
 * [11 More Things I Learned from the jQuery Source (video)](http://paulirish.com/2011/11-more-things-i-learned-from-the-jquery-source/)
 * [jQuery Performance Tips and Tricks (video)](http://addyosmani.com/blog/jquery-performance-tips-2011/)
 
-`@TODO: add more`
 
 To infinity, and beyond!
 ------------------------
@@ -137,7 +120,6 @@ To infinity, and beyond!
 * [YSlow](http://developer.yahoo.com/yslow/)
 * [Page Speed](http://code.google.com/speed/page-speed/)
 
-`@TODO: add more`
 
 ### Author
 
