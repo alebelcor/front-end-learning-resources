@@ -134,6 +134,23 @@ To infinity, and beyond!
 * [YSlow](http://developer.yahoo.com/yslow/)
 * [Page Speed](http://code.google.com/speed/page-speed/)
 
+### Accessibility
+
+* [Accessibility - W3C](http://www.w3.org/standards/webdesign/accessibility)
+
+* [Techniques for Web Content Accessibility Guidelines 1.0](http://www.w3.org/TR/WCAG10-TECHS/) | [WCAG 1.0](http://www.w3.org/TR/WAI-WEBCONTENT/)
+* [Techniques and Failures for Web Content Accessibility Guidelines 2.0](http://www.w3.org/TR/WCAG20-TECHS/) | [WCAG 2.0](http://www.w3.org/TR/WCAG20/)
+* [WCAG 2.0 Before and After Demonstration](http://www.w3.org/WAI/demos/bad/)
+
+* [WAI-ARIA 1.0 Authoring Practices](http://www.w3.org/TR/wai-aria-practices/) | [WAI-ARIA 1.0](http://www.w3.org/TR/wai-aria/)
+
+* [HTML5 accessibility](http://www.html5accessibility.com/)
+* [Yahoo's Accessibility Lab Library](http://yaccessibilityblog.com/library/)
+
+* [Five Layers of Accessibility (video)](http://yaccessibilityblog.com/library/5-layers-of-accessibility.html)
+* [Common Accessibility Mistakes (video)](http://www.youtube.com/watch?v=DOqQ1C9GLMI) | [slides](http://yaccessibilityblog.com/library/common-accessibility-mistakes.html)
+
+* [accessifyhtml5.js](https://github.com/yatil/accessifyhtml5.js)
 
 ### Author
 
