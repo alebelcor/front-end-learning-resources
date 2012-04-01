@@ -94,6 +94,16 @@ Diving deeper
 * [11 More Things I Learned from the jQuery Source (video)](http://paulirish.com/2011/11-more-things-i-learned-from-the-jquery-source/)
 * [jQuery Performance Tips and Tricks (video)](http://addyosmani.com/blog/jquery-performance-tips-2011/)
 
+### JavaScript Testing
+
+* [How to Test your JavaScript Code with QUnit](http://net.tutsplus.com/tutorials/javascript-ajax/how-to-test-your-javascript-code-with-qunit/)
+* [Unit Testing with QUnit](http://benalman.com/talks/unit-testing-qunit.html)
+* [jQuery Test-Driven Development](http://msdn.microsoft.com/en-us/magazine/ff452703.aspx)
+* [The jQuery Developer's Testing Toolkit](http://addyosmani.com/blog/jquery-testing-tools/)
+* [Unit Testing Backbone.js Apps With QUnit And SinonJS](http://addyosmani.com/blog/unit-testing-backbone-js-apps-with-qunit-and-sinonjs/)
+
+* [jQuery's Test Suite](https://github.com/jquery/jquery/tree/master/test)
+* [How Does Modernizr's Test Suite Work? (video)](http://modernizr.com/news/modernizr-test-suite/)
 
 To infinity, and beyond!
 ------------------------
