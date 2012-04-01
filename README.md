@@ -71,8 +71,10 @@ Diving deeper
 
 ### HTML5
 
+* [Dive Into HTML5](http://diveintohtml5.info/)
 * [HTML5 Doctor](http://html5doctor.com/)
 * [HTML5 Rocks](http://www.html5rocks.com/)
+* [HTML5 - Edition for Web Developers](http://developers.whatwg.org/)
 
 * [Learn About HTML5 and the Future of the Web (video)](http://www.youtube.com/watch?v=EdDc7sWjCL4)
 * [HTML5: Right Here, Right Now (video)](http://www.youtube.com/watch?v=c9vaV7ny_Zs)
