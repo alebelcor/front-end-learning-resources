@@ -81,7 +81,9 @@ Diving deeper
 
 * [10 things you might not know about CSS3 (video)](http://vimeo.com/31719130)
 
-### jQuery
+### JavaScript Libraries
+
+#### jQuery
 
 * [jQuery Boilerplate](http://jqueryboilerplate.com/)
 * [Essential jQuery Plugin Patterns](http://coding.smashingmagazine.com/2011/10/11/essential-jquery-plugin-patterns/)
@@ -95,6 +97,8 @@ Diving deeper
 * [jQuery Performance Tips and Tricks (video)](http://addyosmani.com/blog/jquery-performance-tips-2011/)
 
 ### JavaScript Testing
+
+#### QUnit
 
 * [How to Test your JavaScript Code with QUnit](http://net.tutsplus.com/tutorials/javascript-ajax/how-to-test-your-javascript-code-with-qunit/)
 * [Unit Testing with QUnit](http://benalman.com/talks/unit-testing-qunit.html)
