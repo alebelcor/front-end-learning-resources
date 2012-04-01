@@ -5,14 +5,17 @@ Setting the foundations
 -----------------------
 
 ### Introduction
+
 * [HTML, CSS, and JavaScript from the Ground Up](http://code.google.com/edu/submissions/html-css-javascript/#introduction)
 * [Introduction to The Web Standards Curriculum](http://dev.opera.com/articles/view/1-introduction-to-the-web-standards-cur/#toc)
 
 ### HTML
+
 * [HTML/Training](http://www.w3.org/community/webed/wiki/HTML/Training)
 * [HTML/Elements](http://www.w3.org/community/webed/wiki/HTML/Elements)
 
 ### CSS
+
 * [Browser CSS Hacks](http://paulirish.com/2009/browser-specific-css-hacks/)
 * [CSS Image Replacement](http://css-tricks.com/examples/ImageReplacement/)
 * [CSS Selectors](http://alebelcor.blogspot.mx/2011/09/css-selectors.html)
@@ -23,6 +26,7 @@ Setting the foundations
 * [Our (CSS) Best Practices Are Killing US (video)](http://www.stubbornella.org/content/2011/04/28/our-best-practices-are-killing-us/)
 
 ### JavaScript
+
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js)
 
 * [The JavaScript Programming Language (video)](http://www.youtube.com/watch?v=v2ifWcnQs6M)
@@ -43,6 +47,16 @@ Setting the foundations
 * [Advanced JavaScript (video)](http://www.youtube.com/watch?v=DwYPG6vreJg)
 
 ### DOM
+
+* [BOM (Browser Object Model)](http://www.quirksmode.org/js/contents.html#bom)
+* [DOM (Document Object Model)](http://www.quirksmode.org/js/contents.html#dom)
+* [CSS Modification](http://www.quirksmode.org/js/contents.html#css)
+* [W3C DOM Compatibility - Core](http://www.quirksmode.org/dom/w3c_core.html)
+* [W3C DOM Compatibility - HTML](http://www.quirksmode.org/dom/w3c_html.html)
+* [W3C DOM Compatibility - CSS](http://www.quirksmode.org/dom/w3c_css.html)
+* [W3C DOM Compatibility - CSS Object Model View](http://www.quirksmode.org/dom/w3c_cssom.html)
+* [W3C DOM Compatibility - Events](http://www.quirksmode.org/dom/w3c_events.html)
+
 * [An Inconvenient API - The Theory of the DOM (video)](http://www.youtube.com/watch?v=Y2Y0U-2qJMs)
 
 
@@ -50,11 +64,13 @@ Diving deeper
 -------------
 
 ### Ajax
+
 * [Getting Started - MDC](https://developer.mozilla.org/en/AJAX/Getting_Started)
 * [Alternate Ajax Techniques](http://www.webreference.com/programming/ajax_tech/index.html)
 * [Ajax - MDC](https://developer.mozilla.org/en/AJAX)
 
 ### HTML5
+
 * [HTML5 Doctor](http://html5doctor.com/)
 * [HTML5 Rocks](http://www.html5rocks.com/)
 
@@ -71,6 +87,7 @@ Diving deeper
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 
 ### CSS3
+
 * [CSS3 Please!](http://css3please.com/)
 * [CSS3 PIE](http://css3pie.com/)
 * [CSS3 . Info](http://www.css3.info/)
