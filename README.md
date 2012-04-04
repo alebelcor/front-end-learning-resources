@@ -173,7 +173,7 @@ To infinity, and beyond!
 
 ### Author
 
-** Alejandro Beltran **
+**Alejandro Beltran**
 
 + http://twitter.com/alebelcor
 + http://github.com/alebelcor
