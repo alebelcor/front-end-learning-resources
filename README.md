@@ -29,6 +29,8 @@ Setting the foundations
 
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js)
 
+* [JavaScript Content on InfoQ](http://www.infoq.com/javascript/)
+
 * [The JavaScript Programming Language (video)](http://www.youtube.com/watch?v=v2ifWcnQs6M)
 
 * [Crockford on JavaScript - Volume 1: The Early Years (video)](http://www.youtube.com/watch?v=JxAXlJEmNMg)
@@ -74,6 +76,8 @@ Diving deeper
 * [Dive Into HTML5](http://diveintohtml5.info/)
 * [HTML5 Doctor](http://html5doctor.com/)
 * [HTML5 Rocks](http://www.html5rocks.com/)
+
+* [HTML5 Content on InfoQ](http://www.infoq.com/html5topic/)
 * [HTML5 - Edition for Web Developers](http://developers.whatwg.org/)
 
 * [Learn About HTML5 and the Future of the Web (video)](http://www.youtube.com/watch?v=EdDc7sWjCL4)
