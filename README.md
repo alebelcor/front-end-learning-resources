@@ -175,6 +175,32 @@ To infinity, and beyond!
 
 * [accessifyhtml5.js](https://github.com/yatil/accessifyhtml5.js)
 
+### JavaScript Patterns & Architecture
+
+* [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth)
+* [Exploring The Decorator Pattern In JavaScript & jQuery](http://addyosmani.com/blog/decorator-pattern/)
+* [Managing Application Resources with the Flyweight Pattern](http://msdn.microsoft.com/en-us/magazine/hh273390.aspx)
+* [Understanding the Publish/Subscribe Pattern for Greater JavaScript Scalability](http://msdn.microsoft.com/en-us/magazine/hh201955.aspx)
+
+* [Design Patterns applied to JavaScript code](https://github.com/tcorral/Design-Patterns-in-Javascript/)
+* [JavaScript Patterns Collection](https://github.com/shichuan/javascript-patterns)
+* [Essential JavaScript Design Patterns](https://github.com/addyosmani/essential-js-design-patterns)
+
+* [Building Decoupled Large-Scale Applications With JavaScript And jQuery](http://addyosmani.com/blog/jqcon-largescalejs-2012/)
+* [Building Large-Scale jQuery Applications](http://addyosmani.com/blog/large-scale-jquery/)
+
+* [Unnecessarily comprehensive look into a rather insignificant issue of global objects creation](http://perfectionkills.com/unnecessarily-comprehensive-look-into-a-rather-insignificant-issue-of-global-objects-creation/)
+* [Essential JavaScript Namespacing Patterns](http://addyosmani.com/blog/essential-js-namespacing/)
+
+* [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/)
+
+* [Comparison of Architecture presentation patterns MVP(SC), MVP(PV), PM, MVVM and MVC](http://www.codeproject.com/Articles/66585/Comparison-of-Architecture-presentation-patterns-M)
+* [Understanding MVC And MVP (For JavaScript And Backbone Developers)](http://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
+* [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
+
+* [Scalable JavaScript Application Architecture (video)](http://www.youtube.com/watch?v=vXjVFPosQHw)
+* [Scaling Your JavaScript Applications (videos)](http://addyosmani.com/scalable-javascript-videos/)
+
 ### Author
 
 **Alejandro Beltran**
