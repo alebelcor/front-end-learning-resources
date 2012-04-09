@@ -17,7 +17,7 @@ Setting the foundations
 ### CSS
 
 * [Browser CSS Hacks](http://paulirish.com/2009/browser-specific-css-hacks/)
-* [CSS Image Replacement](http://css-tricks.com/examples/ImageReplacement/)
+* [CSS Image Replacement Museum](http://css-tricks.com/examples/ImageReplacement/)
 * [CSS Selectors](http://alebelcor.blogspot.mx/2011/09/css-selectors.html)
 * [CSS: the cascade, specificity, and inheritance](http://nicolasgallagher.com/css-cascade-specificity-inheritance/)
 * [Cross Browser Inline-Block](http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/)
