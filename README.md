@@ -76,6 +76,7 @@ Diving deeper
 * [Dive Into HTML5](http://diveintohtml5.info/)
 * [HTML5 Doctor](http://html5doctor.com/)
 * [HTML5 Rocks](http://www.html5rocks.com/)
+* [HTML5 Bookmarks](http://html5bookmarks.com/)
 
 * [HTML5 Content on InfoQ](http://www.infoq.com/html5topic/)
 * [HTML5 - Edition for Web Developers](http://developers.whatwg.org/)
