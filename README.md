@@ -201,6 +201,7 @@ To infinity, and beyond!
 
 * [Comparison of Architecture presentation patterns MVP(SC), MVP(PV), PM, MVVM and MVC](http://www.codeproject.com/Articles/66585/Comparison-of-Architecture-presentation-patterns-M)
 * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](http://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
+* [Understanding MVVM – A Guide For JavaScript Developers](http://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
 
 * [Scalable JavaScript Application Architecture (video)](http://www.youtube.com/watch?v=vXjVFPosQHw)
