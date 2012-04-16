@@ -120,6 +120,8 @@ Diving deeper
 * [Boston 2010 jQuery Conference (videos)](http://events.jquery.org/2010/boston/video/)
 * [10 Things I Learned from the jQuery Source (video)](http://paulirish.com/2010/10-things-i-learned-from-the-jquery-source/)
 * [11 More Things I Learned from the jQuery Source (video)](http://paulirish.com/2011/11-more-things-i-learned-from-the-jquery-source/)
+
+* [jQuery Anti-Patterns for Performance](http://paulirish.com/2009/perf/)
 * [jQuery Performance Tips and Tricks (video)](http://addyosmani.com/blog/jquery-performance-tips-2011/)
 
 ### JavaScript Testing
