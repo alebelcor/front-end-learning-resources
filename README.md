@@ -109,6 +109,8 @@ Diving deeper
 
 #### jQuery
 
+* [jQuery Fundamentals](http://jqfundamentals.com/)
+
 * [jQuery Boilerplate](http://jqueryboilerplate.com/)
 * [Essential jQuery Plugin Patterns](http://coding.smashingmagazine.com/2011/10/11/essential-jquery-plugin-patterns/)
 * [31 jQuery Snippets That Will Help Make You A JavaScript Pro](http://addyosmani.com/blog/31-jquery-snippets/)
