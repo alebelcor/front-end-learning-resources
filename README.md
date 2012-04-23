@@ -27,6 +27,7 @@ Setting the foundations
 
 ### JavaScript
 
+* [Eloquent JavaScript - A Modern Introduction to Programming](http://eloquentjavascript.net)
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js)
 
 * [JavaScript Content on InfoQ](http://www.infoq.com/javascript/)
