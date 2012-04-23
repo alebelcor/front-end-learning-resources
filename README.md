@@ -27,7 +27,7 @@ Setting the foundations
 
 ### JavaScript
 
-* [Eloquent JavaScript - A Modern Introduction to Programming](http://eloquentjavascript.net)
+* [Eloquent JavaScript - A Modern Introduction to Programming](http://eloquentjavascript.net/)
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js)
 
