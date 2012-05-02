@@ -1,4 +1,4 @@
-Front End Developer Learning Resources
+Front End Web Developer Learning Resources
 ======================================
 
 Setting the foundations
