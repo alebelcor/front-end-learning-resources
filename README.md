@@ -209,6 +209,16 @@ To infinity, and beyond!
 * [Scalable JavaScript Application Architecture (video)](http://www.youtube.com/watch?v=vXjVFPosQHw)
 * [Scaling Your JavaScript Applications (videos)](http://addyosmani.com/scalable-javascript-videos/)
 
+#### Backbone.js
+
+* [Developing Backbone.js Applications](https://github.com/addyosmani/backbone-fundamentals)
+* [Backbone.js Tutorials](http://backbonetutorials.com/)
+
+* [Backbone patterns](http://ricostacruz.com/backbone-patterns/)
+* [Backbone.js Patterns](http://backbone-patterns.heroku.com)
+
+* [Backbone Boilerplate](https://github.com/tbranyen/backbone-boilerplate)
+
 ### Author
 
 **Alejandro Beltran**
