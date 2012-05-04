@@ -14,6 +14,8 @@ Setting the foundations
 * [HTML/Training](http://www.w3.org/community/webed/wiki/HTML/Training)
 * [HTML/Elements](http://www.w3.org/community/webed/wiki/HTML/Elements)
 
+* [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+
 ### CSS
 
 * [Browser CSS Hacks](http://paulirish.com/2009/browser-specific-css-hacks/)
