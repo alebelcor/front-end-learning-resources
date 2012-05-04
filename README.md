@@ -24,8 +24,17 @@ Setting the foundations
 * [CSS: the cascade, specificity, and inheritance](http://nicolasgallagher.com/css-cascade-specificity-inheritance/)
 * [Cross Browser Inline-Block](http://blog.mozilla.com/webdev/2009/02/20/cross-browser-inline-block/)
 * [CSS Compatibility and Internet Explorer](http://msdn.microsoft.com/en-us/library/cc351024)
+* [CSS Best Practices](http://www.lukew.com/ff/entry.asp?1469)
+
+* [The Mystery Of CSS Sprites: Techniques, Tools And Tutorials](http://coding.smashingmagazine.com/2009/04/27/the-mystery-of-CSS-sprites-techniques-tools-and-tutorials/)
+
 * [The Top 5 Mistakes of Massive CSS (video)](http://www.youtube.com/watch?v=j6sAm7CLoCQ)
 * [Our (CSS) Best Practices Are Killing US (video)](http://www.stubbornella.org/content/2011/04/28/our-best-practices-are-killing-us/)
+
+* [An introduction to CSS pseudo-element hacks](http://nicolasgallagher.com/an-introduction-to-css-pseudo-element-hacks/)
+* [CSS Pseudo Elements for Fun & Profit (video)](http://www.youtube.com/watch?v=Konn2NMmSXw)
+
+* [CSSDeck - Collection of CSS Creations](http://cssdeck.com/)
 
 ### JavaScript
 
