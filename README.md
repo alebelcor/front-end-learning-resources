@@ -192,6 +192,24 @@ To infinity, and beyond!
 
 * [accessifyhtml5.js](https://github.com/yatil/accessifyhtml5.js)
 
+### Front End Architecture
+
+* [Decoupling HTML From CSS](http://coding.smashingmagazine.com/2012/04/20/decoupling-html-from-css/)
+* [Scalable and Modular Architecture for CSS](http://smacss.com/)
+
+* [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
+* [The single responsibility principle applied to CSS](http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/)
+* [Web-First Design Patterns](http://www.slideshare.net/mahemoff/webfirst-design-patterns)
+* [Best Practices Every HTML5 Developer Should Know](http://www.slideshare.net/mahemoff/best-practices-every-html5-developer-should-know)
+
+* [OOCSS - GitHub Wiki](https://github.com/stubbornella/oocss/wiki)
+* [An Introduction To Object Oriented CSS (OOCSS)](http://coding.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/)
+* [Object Oriented CSS: for high performance websites and web applications (video)](http://www.stubbornella.org/content/2009/03/23/object-oriented-css-video-on-ydn/)
+* [OOCSS For JavaScript Pirates (video)](http://events.jquery.org/2010/boston/video/video.php?talk=john-hann)
+
+* [BEM](http://bem.github.com/bem-method/pages/beginning/beginning.en.html)
+* [Terrific](http://terrifically.org/)
+
 ### JavaScript Patterns & Architecture
 
 * [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth)
