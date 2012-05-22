@@ -182,6 +182,7 @@ To infinity, and beyond!
 * [Techniques and Failures for Web Content Accessibility Guidelines 2.0](http://www.w3.org/TR/WCAG20-TECHS/) | [WCAG 2.0](http://www.w3.org/TR/WCAG20/)
 * [WCAG 2.0 Before and After Demonstration](http://www.w3.org/WAI/demos/bad/)
 
+* [Introduction to WAI ARIA](http://dev.opera.com/articles/view/introduction-to-wai-aria/)
 * [WAI-ARIA 1.0 Authoring Practices](http://www.w3.org/TR/wai-aria-practices/) | [WAI-ARIA 1.0](http://www.w3.org/TR/wai-aria/)
 
 * [HTML5 accessibility](http://www.html5accessibility.com/)
