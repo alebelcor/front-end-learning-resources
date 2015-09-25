@@ -1,4 +1,13 @@
-# Front End Web Developer Learning Resources
+# [DEPRECATED] Front End Web Developer Learning Resources
+
+Here are better alternatives:
+
+* [Awesome HTML5](https://github.com/diegocard/awesome-html5)
+* [Awesome CSS](https://github.com/sotayamashita/awesome-css)
+* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+* [Frontend stuff](https://github.com/moklick/frontend-stuff)
+* [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 
 ## Setting the foundations
 
@@ -204,9 +213,6 @@
 * [Backbone.js Patterns](http://backbone-patterns.heroku.com)
 * [Backbone Boilerplate](https://github.com/tbranyen/backbone-boilerplate)
 
-### Author
+## License
 
-**Alejandro Beltran**
-
-+ http://twitter.com/alebelcor
-+ http://github.com/alebelcor
+MIT © Alejandro Beltrán
